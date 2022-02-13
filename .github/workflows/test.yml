@@ -3,7 +3,7 @@ name: Install and test
 on:
   push:
     branches:
-      - main
+      -  testing-workflow 
   pull_request:
     branches:
       - main
